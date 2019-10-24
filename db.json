@@ -1,6 +1,6 @@
 {
   "posts": [
-    { "id": 10, "title": "Exam 1", "name" : "mayank"},
+    { "id": 1, "title": "Exam 1", "name" : "mayank"},
     { "id": 2, "title": "Exam 2" },
     { "id": 3, "title": "Exam 3" }
   ],
