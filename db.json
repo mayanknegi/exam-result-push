@@ -1,6 +1,6 @@
 {
   "posts": [
-    { "start_date_time": "1571778000","end_date_time": "1571788800","exam_batch_code": "P00001115717780001571788800","users": [{"exam_id":"101","exam_section_code":"T0001","completion_status":"C","sis_user_id":"mayank","grade_numerator":"80","grade_denominator":"100","completion_date":"1571780444","result":"success"}]},
+    { "id": 1, "title": "Exam 1" },
     { "id": 2, "title": "Exam 2" },
     { "id": 3, "title": "Exam 3" }
   ],
