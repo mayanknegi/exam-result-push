@@ -1,0 +1,14 @@
+{
+  "posts": [
+    { "id": 1, "title": "Exam 1" },
+    { "id": 2, "title": "Exam 2" },
+    { "id": 3, "title": "Exam 3" }
+  ],
+  "comments": [
+    { "id": 1, "body": "some comment", "postId": 1 },
+    { "id": 2, "body": "some comment", "postId": 1 }
+  ],
+  "profile": {
+    "name": "typicode"
+  }
+}
